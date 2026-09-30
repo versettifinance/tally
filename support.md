@@ -23,9 +23,6 @@ Tap **+ → Import Statement**, then choose a PDF or CSV file (up to 10 at once)
 **Why is a field highlighted after a scan or import?**
 Wealthline wasn't fully confident about that value. Check it and correct it if needed before saving.
 
-**How are foreign-currency amounts converted?**
-Each transaction keeps its original currency. Totals use the Bank of Canada's daily exchange rate.
-
 **How do I turn on Face ID / Touch ID lock?**
 Go to **More → Settings** and turn on **Require Face ID / Touch ID**.
 
