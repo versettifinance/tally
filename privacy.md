@@ -25,7 +25,7 @@ Receipt reading, categorization, and the AI assistant run on your device, using 
 The optional App Lock feature uses Apple's LocalAuthentication framework. Biometric verification happens entirely inside your device's Secure Enclave; Wealthline never has access to your raw biometric data.
 
 ## Network requests
-When you record a transaction in a foreign currency, the app requests public exchange rates from the Bank of Canada. That request contains only currency codes and dates, never personal or financial information.
+This version of Wealthline does not make network requests. It does not download exchange rates or any other data.
 
 ## iCloud and backups
 If you have iOS device backups enabled (iCloud Backup or a local Finder/Mac backup), your app data is included in those backups under your own Apple Account, subject to your own backup encryption settings. We cannot access these backups.
