@@ -4,7 +4,7 @@ title: Wealthline Privacy Policy
 
 # Privacy Policy for Wealthline
 
-**Effective:** September 25, 2026
+**Effective:** September 30, 2026
 **Publisher:** Versetti Inc., Ontario, Canada
 
 **Summary:** Wealthline does not collect your data. Everything you enter stays on your iPhone.
@@ -25,7 +25,7 @@ Receipt reading, categorization, and the AI assistant run on your device, using 
 The optional App Lock feature uses Apple's LocalAuthentication framework. Biometric verification happens entirely inside your device's Secure Enclave; Wealthline never has access to your raw biometric data.
 
 ## Network requests
-This version of Wealthline does not make network requests. It does not download exchange rates or any other data.
+Wealthline does not send your data to Wealthline's servers or to any third party, and it does not download exchange rates or any other data. The one exception is the optional address field on a transaction: address suggestions and the small map are provided by Apple Maps (MapKit), so the address text you type is sent to Apple under Apple's privacy policy. Wealthline does not use your device's location.
 
 ## iCloud and backups
 If you have iOS device backups enabled (iCloud Backup or a local Finder/Mac backup), your app data is included in those backups under your own Apple Account, subject to your own backup encryption settings. We cannot access these backups.
